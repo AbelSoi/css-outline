@@ -1,0 +1,27 @@
+body h1 {
+    max-width: 50%;
+    background-color: aquamarine;
+    border: 2px solid green;
+    outline-style: double;
+    padding: 20px;
+    margin: 20px;
+    outline-offset: 2px;
+    box-sizing: border-box;
+}
+div p {
+    max-width: 50%;
+    padding: 20px;
+    margin: 20px;
+    outline-offset: 2px;
+    box-sizing: border-box;
+}
+div p.para1 {
+    background-color:sandybrown ;
+    border: 2px solid rgb(250, 71, 250);
+    outline: medium gray groove;
+}
+div p.para2 {
+    background-color: skyblue;
+    border: 2px solid pink;
+    outline: medium grey ridge;
+}
